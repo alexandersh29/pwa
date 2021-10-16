@@ -2,6 +2,7 @@
   "name": "Practica #2",
   "short_name": "Practica #2",
   "start_url": "index.html",
+  "description": "Esta es una página PWA - Argel Gomez",
   "display": "standalone",
   "background_color": "#fdfdfd",
   "theme_color": "#db4938",
